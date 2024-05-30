@@ -1,0 +1,35 @@
+* {
+  background-color: rgb(77, 183, 245);
+}
+.App {
+  border : 1px solid ;
+  margin:  50px 30px ;
+  padding: 25px 25px ;
+  text-align: center;
+  width: 70%;
+}
+
+.input{
+  width: 30%;
+  height: 25px;
+
+
+}
+
+.cont {
+  display: flex;
+  justify-content: space-around;
+
+
+}
+.cont ul li {
+  margin: 10px;
+ overflow-wrap: break-word;
+  list-style-type: "✅";
+}
+
+.cont li {
+  margin-bottom: 5px;
+  padding: 5px ;
+  border-radius: 5px ;
+}
